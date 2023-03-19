@@ -26,7 +26,6 @@
     <li><a href="#-questions">🙋‍♂️ Questions</a></li>
     <li><a href="#-contributing">🤝 Contributing</a></li>
     <li><a href="#show-your-support">Show your support</a></li>
-    <li><a href="#-license">📝 License</a></li>
   </ol>
 </details>
 
@@ -144,7 +143,3 @@ You'll find instructions on how to use it in [`examples/README.md`](https://gith
 
 Give a ⭐️ if this project helped you!
 
-## 📝 License
-
-Copyright © 2019-2022 [bibixx](https://github.com/bibixx) <bartosz+a.github@legiec.io>.<br />
-This project is [MIT](https://github.com/bibixx/react-adobe-animate/blob/main/LICENSE.md) licensed.
